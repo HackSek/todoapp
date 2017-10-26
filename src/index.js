@@ -4,4 +4,4 @@ import './index.css';
 import TodoComponent from './App';
 
 ReactDOM.render(<TodoComponent />, document.getElementById('todo-wrapper'));
-registerServiceWorker();
+

@@ -20,6 +20,7 @@ class TodoComponent extends Component {
     this.onAdd = this.onAdd.bind(this);
     this.onDelete = this.onDelete.bind(this);
 
+
   }
 
 
@@ -72,6 +73,7 @@ class TodoComponent extends Component {
 
 
   }
+
 
 }
 
